@@ -1,2 +1,3 @@
-# galeria-sandman
- Uma galeria de imagem dos perpetuos.  
+# Galeria Sandman
+ Uma galeria de imagem dos perpetuos.
+   
